@@ -4,7 +4,7 @@
 
    1. Enviornments and Search Algorithms
       Generating a Maze.
-      Trying to Solve it using different Search Techniques(BFS< DFS, A*, BIBFS)
+      Trying to Solve it using different Search Techniques(BFS, DFS, A*, BIBFS)
 
    2. Analysis and Comparison of Different Search Algorithms
 
